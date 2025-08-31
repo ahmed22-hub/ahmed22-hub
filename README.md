@@ -1,84 +1,91 @@
-<!-- HEADER -->
-<h1 align="center">👨‍💻 Ahmed Masmoudi</h1>  
-<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | Full-Stack Background</h3>  
+<h1 align="center">Hi 👋, I'm Ahmed Masmoudi</h1>  
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Full-Stack Developer</h3>  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IaC-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue?style=for-the-badge&logo=jenkins" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=for-the-badge&logo=grafana" />
 </p>  
 
 ---
 
-## 🛠️ Core Competencies  
+## 🛠️ Tech Stack  
 
-**⚙️ DevOps & Infrastructure**  
-- Designed and automated **CI/CD pipelines** (Jenkins, GitHub Actions) improving release frequency.  
-- Built **containerized microservices** with Docker & Kubernetes for scalable deployments.  
-- Applied **Infrastructure as Code** (Ansible, Terraform) reducing manual provisioning time by >50%.  
-- Deployed **observability stacks** (Prometheus + Grafana, ELK) ensuring proactive monitoring.  
+**💻 Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat&logo=django&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-**💻 Software Development**  
-- Backend: **Python (Django REST)**  
-- Frontend: **React.js**  
-- Databases: **MySQL, PostgreSQL**  
-- Experience building **secure, test-driven APIs** integrated into automated pipelines.  
+**⚙️ DevOps Tools**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
----
-
-## 📌 Key Projects  
-
-### 🔗 [React + Django + DevOps Pipeline](https://github.com/ahmed22-hub/react-django)  
-A production-ready **full-stack starter** with complete DevOps integration:  
-- ⚡ CI/CD with Jenkins & Ansible  
-- 🐳 Dockerized services & `docker-compose` for local dev  
-- ☸️ Kubernetes manifests for cluster deployment  
-- 📊 Code quality gates via SonarQube  
-- 🔍 Observability: Prometheus + Grafana  
-
-### 🔗 [End-to-End CI/CD Pipeline](https://github.com/ahmed22-hub/jenkins-pipeline)  
-- Built **multi-stage Jenkins pipelines** (build → test → scan → deploy).  
-- Integrated **SonarQube** for static code analysis.  
-- Automated deployments to **Dev/Prod VMs** with Ansible.  
+**📊 Monitoring & Quality**  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
 
 ---
 
-## 🔄 DevOps Workflow  
+## 🔄 DevOps Pipeline  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed22-hub/assets/main/devops-pipeline.png" width="800" alt="DevOps Workflow Diagram"/>
+  <img src="https://raw.githubusercontent.com/ahmed22-hub/ahmed22-hub/main/assets/devops-pipeline.png" width="800" alt="DevOps Pipeline"/>
 </p>  
 
 ---
 
-## 📊 GitHub Metrics  
+## 📌 Featured Project  
+
+### 🔗 [Fullstack React + Django + DevOps](https://github.com/ahmed22-hub/react-django)  
+
+🚀 A **modern full-stack template** with:  
+- React frontend + Django backend + MySQL database  
+- CI/CD pipeline (**Jenkins + Ansible**)  
+- Containerized with **Docker & docker-compose**  
+- Code quality with **SonarQube**  
+- Monitoring with **Prometheus + Grafana**  
+- Ready for **Kubernetes**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed22-hub&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22-hub&layout=compact&theme=tokyonight" height="160" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed22-hub&theme=tokyonight" height="160" />
+  <img src="https://skillicons.dev/icons?i=react,django,mysql,docker,jenkins,ansible,kubernetes,grafana,prometheus,git" />
 </p>  
 
 ---
 
-## 🎓 Certifications & Continuous Learning  
+## 📊 GitHub Stats  
 
-- 🐳 Docker & Kubernetes — hands-on labs (in progress)  
-- 🔧 Jenkins Advanced CI/CD — pipeline automation  
-- ☸️ Kubernetes Fundamentals — orchestration & scaling  
-- ☁️ AWS Cloud Practitioner (studying)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed22-hub&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22-hub&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed22-hub&theme=tokyonight" alt="GitHub Streak" />
+</p>  
 
 ---
 
-## 🌍 Connect with Me  
+## 🎓 Certifications & Learning Path  
 
-<p align="center">
-  <a href="www.linkedin.com/in/ahmed-masmoudi-5a459333b" target="_blank">
+- 🐳 Docker & Containerization (in progress)  
+- 🔧 Jenkins & CI/CD pipelines  
+- ☸️ Kubernetes (learning)  
+- ☁️ Cloud Fundamentals (AWS basics)  
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/ahmed-masmoudi-5a459333b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ahmedmasmoudi803@gmail.com">
@@ -91,4 +98,4 @@ A production-ready **full-stack starter** with complete DevOps integration:
 
 ---
 
-💡 *“I automate delivery, scale infrastructure, and ensure reliability — so teams ship faster and safer.”*  
+💡 *“Automate everything. Monitor everything. Deliver continuously.”*  
