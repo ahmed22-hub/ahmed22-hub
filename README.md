@@ -31,11 +31,6 @@
 
 ---
 
-## 🔄 DevOps Pipeline  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed22-hub/ahmed22-hub/main/assets/devops-pipeline.png" width="800" alt="DevOps Pipeline"/>
-</p>  
 
 ---
 
